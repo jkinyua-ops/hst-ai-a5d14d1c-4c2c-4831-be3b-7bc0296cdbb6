@@ -1,2 +1,4 @@
 "change displayed app name to Jeremy's app"
 
+"change nav bar color to green"
+
