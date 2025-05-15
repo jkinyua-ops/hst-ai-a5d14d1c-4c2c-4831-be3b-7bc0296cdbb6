@@ -2,3 +2,5 @@
 
 "change nav bar color to green"
 
+"Move the logo to the right and make it clean"
+
