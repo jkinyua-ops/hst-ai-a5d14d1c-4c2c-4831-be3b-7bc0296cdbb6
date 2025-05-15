@@ -1,0 +1,2 @@
+"change displayed app name to Jeremy's app"
+
