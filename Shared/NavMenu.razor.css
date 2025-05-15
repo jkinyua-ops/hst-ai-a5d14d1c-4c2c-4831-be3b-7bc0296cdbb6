@@ -9,6 +9,7 @@
 
 .navbar-brand {
     font-size: 1.1rem;
+    margin-left: auto;
 }
 
 .oi {
@@ -65,27 +66,4 @@
         height: calc(100vh - 3.5rem);
         overflow-y: auto;
     }
-}
-
-/* New styles for green navigation bar */
-.navbar {
-    background-color: #4CAF50; /* A nice shade of green */
-}
-
-.navbar-brand {
-    color: white;
-}
-
-.nav-item ::deep a {
-    color: #e8f5e9; /* Light green for better contrast */
-}
-
-.nav-item ::deep a.active {
-    background-color: rgba(255,255,255,0.2);
-    color: white;
-}
-
-.nav-item ::deep a:hover {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
 }
